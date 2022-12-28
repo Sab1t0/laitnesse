@@ -1,73 +1,130 @@
 Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js
-File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\ajax\libs\jquery\1.11.0\jquery.min-13.js
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\ajax\libs\jquery\1.11.0\jquery.min-77.js
 Content Type: text/javascript
 
-Uri: https://cdn.tebex.io/store/851201/templates/92361/assets/072181ce3a573d03f92d9434ef825c49c1948eaf.png?updated=6d864148fa0217ec484ffda0f6fecc8d2fe2e4f3db94273df6255474913ca750
-File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\store\851201\templates\92361\assets\072181ce3a573d03f92d9434ef825c49c1948eaf-13.png
-Content Type: image/png
-
-Uri: https://cdn.tebex.io/store/851201/templates/92361/assets/0b3daa6464586972b20fcda2582d91608fdc51f7.png?updated=7eaa1a023aa62673b17323884a10f0cddcfc2033ac3a2b9e06fbf67e9cab20da
-File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\store\851201\templates\92361\assets\0b3daa6464586972b20fcda2582d91608fdc51f7-13.png
-Content Type: image/png
-
-Uri: https://cdn.tebex.io/store/851201/templates/92361/assets/1896e4dbad74903d524d4ca584cf2dc11a034af2.png?updated=18177f3cf420e1c06b5542ee2fe33dd3ff74d42204651dcfbf686651a190b0af
-File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\store\851201\templates\92361\assets\1896e4dbad74903d524d4ca584cf2dc11a034af2-13.png
-Content Type: image/png
-
-Uri: https://cdn.tebex.io/store/851201/templates/92361/assets/2746f0a6eb9fa2a96087596fdf5d1b61a890b4e7.png?updated=94c80f6c92278034f344f995175e604b2d4b611b45e3860cfb40aa034f8e957d
-File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\store\851201\templates\92361\assets\2746f0a6eb9fa2a96087596fdf5d1b61a890b4e7-13.png
-Content Type: image/png
-
-Uri: https://cdn.tebex.io/store/851201/templates/92361/assets/280dbc18b2af8d5368133ba1386e7988066baaab.png?updated=1cbf25b2a825b8a6a85ae79062397d12d4c9af88824d495793f2de0ab9483f42
-File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\store\851201\templates\92361\assets\280dbc18b2af8d5368133ba1386e7988066baaab-13.png
-Content Type: image/png
-
-Uri: https://cdn.tebex.io/store/851201/templates/92361/assets/3e8eebc924d4ac9e9a23f88ea9e97681e8daddf5.png?updated=9afa046abe7174dd52a94c83acd6b030603d15bdc6398621cfab7145b1677ac1
-File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\store\851201\templates\92361\assets\3e8eebc924d4ac9e9a23f88ea9e97681e8daddf5-13.png
-Content Type: image/png
-
-Uri: https://cdn.tebex.io/store/851201/templates/92361/assets/442b7bf837cbe21b5248bd73ff609d649ccaadc3.png?updated=1b563d32b91faa144764d3ee96d319ed52cee3690b8489852ba26dab0ba85577
-File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\store\851201\templates\92361\assets\442b7bf837cbe21b5248bd73ff609d649ccaadc3-13.png
-Content Type: image/png
-
-Uri: https://cdn.tebex.io/store/851201/templates/92361/assets/51d2dcfb13b0b5557c76d88b734aa562060e427f.png?updated=95082bdf7e79b34b9b5a0daf7f6a1a29432ebd4ad7507fe051dcd4341bf3302e
-File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\store\851201\templates\92361\assets\51d2dcfb13b0b5557c76d88b734aa562060e427f-13.png
-Content Type: image/png
-
 Uri: https://cdn.tebex.io/store/851201/templates/92361/assets/8d20a11fbde9806446a0ebe654afaa3aca389049.png?updated=1cbf25b2a825b8a6a85ae79062397d12d4c9af88824d495793f2de0ab9483f42
-File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\store\851201\templates\92361\assets\8d20a11fbde9806446a0ebe654afaa3aca389049-13.png
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\store\851201\templates\92361\assets\8d20a11fbde9806446a0ebe654afaa3aca389049-77.png
 Content Type: image/png
 
 Uri: https://cdn.tebex.io/store/851201/templates/92361/assets/90c86725c02d24d40ae787986359afb850d2536c.png?updated=19d189d364c2805286bde700fcb8b5ab73f8c740940f36ec5ffdcbbb240df24b
-File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\store\851201\templates\92361\assets\90c86725c02d24d40ae787986359afb850d2536c-13.png
-Content Type: image/png
-
-Uri: https://cdn.tebex.io/store/851201/templates/92361/assets/95e6ba41b013a6b8c8677de09264fc0c44ffe961.png?updated=1cbf25b2a825b8a6a85ae79062397d12d4c9af88824d495793f2de0ab9483f42
-File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\store\851201\templates\92361\assets\95e6ba41b013a6b8c8677de09264fc0c44ffe961-13.png
-Content Type: image/png
-
-Uri: https://cdn.tebex.io/store/851201/templates/92361/assets/c4b5c0490e1e567fec8911f6ba9cb0f0108bc373.png?updated=ae29ad6cf5eb4d8a2d081ebbd9fef652f46f4f74d88abee03855cc4876381b6b
-File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\store\851201\templates\92361\assets\c4b5c0490e1e567fec8911f6ba9cb0f0108bc373-13.png
-Content Type: image/png
-
-Uri: https://cdn.tebex.io/store/851201/templates/92361/assets/dec972ed11409d19b2565ef4221723f8fea468a2.png?updated=1cbf25b2a825b8a6a85ae79062397d12d4c9af88824d495793f2de0ab9483f42
-File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\store\851201\templates\92361\assets\dec972ed11409d19b2565ef4221723f8fea468a2-13.png
-Content Type: image/png
-
-Uri: https://cdn.tebex.io/store/851201/templates/92361/assets/f495eebe1ba1de39c10f31e533884df2eacd6ba0.png?updated=1cbf25b2a825b8a6a85ae79062397d12d4c9af88824d495793f2de0ab9483f42
-File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\store\851201\templates\92361\assets\f495eebe1ba1de39c10f31e533884df2eacd6ba0-13.png
-Content Type: image/png
-
-Uri: https://cdn.tebex.io/store/851201/templates/92361/assets/ff1a67237717c51b31a9cd071c06d1ff08c3dd52.png?updated=4f36f94e836d67c1a0c3ae5ba75395c22031a7cbbc9f5cf9d579848d5a5e6354
-File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\store\851201\templates\92361\assets\ff1a67237717c51b31a9cd071c06d1ff08c3dd52-13.png
-Content Type: image/png
-
-Uri: https://cdn.tebex.io/store/851201/templates/92361/assets/ff36c3503e4ad7001655b7cafdbb2abbe07bee95.png?updated=4f36f94e836d67c1a0c3ae5ba75395c22031a7cbbc9f5cf9d579848d5a5e6354
-File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\store\851201\templates\92361\assets\ff36c3503e4ad7001655b7cafdbb2abbe07bee95-13.png
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\store\851201\templates\92361\assets\90c86725c02d24d40ae787986359afb850d2536c-77.png
 Content Type: image/png
 
 Uri: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js
-File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\ajax\libs\popper.js\1.14.3\umd\popper.min-13.js
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\ajax\libs\popper.js\1.14.3\umd\popper.min-77.js
+Content Type: application/javascript
+
+Uri: https://dunb17ur4ymx4.cloudfront.net/webstore/favicons/405f248b8f7861f5b58bc96ac0d6aae50c8589aa.png
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\webstore\favicons\405f248b8f7861f5b58bc96ac0d6aae50c8589aa-77.png
+Content Type: image/png
+
+Uri: https://kit.fontawesome.com/a43b53df44.js
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\a43b53df44-77.js
+Content Type: text/javascript
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\bootstrap\4.1.1\js\bootstrap.min-77.js
+Content Type: application/javascript
+
+Uri: https://wardrobe.essential.gg/assets/js/discord.js
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\assets\js\discord-77.js
+Content Type: application/javascript
+
+Uri: https://wardrobe.essential.gg/login
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\login.html
+Content Type: text/html
+
+Uri: https://wardrobe.essential.gg/login?currency=AUD
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\login-1.html
+Content Type: text/html
+
+Uri: https://wardrobe.essential.gg/login?currency=BRL
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\login-2.html
+Content Type: text/html
+
+Uri: https://wardrobe.essential.gg/login?currency=CAD
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\login-3.html
+Content Type: text/html
+
+Uri: https://wardrobe.essential.gg/login?currency=DKK
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\login-4.html
+Content Type: text/html
+
+Uri: https://wardrobe.essential.gg/login?currency=EUR
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\login-5.html
+Content Type: text/html
+
+Uri: https://wardrobe.essential.gg/login?currency=GBP
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\login-9.html
+Content Type: text/html
+
+Uri: https://wardrobe.essential.gg/login?currency=NOK
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\login-6.html
+Content Type: text/html
+
+Uri: https://wardrobe.essential.gg/login?currency=NZD
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\login-7.html
+Content Type: text/html
+
+Uri: https://wardrobe.essential.gg/login?currency=PLN
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\login-8.html
+Content Type: text/html
+
+Uri: https://wardrobe.essential.gg/login?currency=SEK
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\login-10.html
+Content Type: text/html
+
+Uri: https://wardrobe.essential.gg/login?currency=USD
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\login-11.html
+Content Type: text/html
+
+Uri: https://wardrobe.essential.gg/template-assets/store.css?updated=fb5825170d5b4830a84b8f808215b14dd500c7875478eb02df0da1027db8d186
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\template-assets\store-77.css
+Content Type: text/css
+
+Uri: https://wardrobe.essential.gg/templates/209/js/site.js
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\templates\209\js\site-77.js
+Content Type: application/javascript
+
+Uri: https://wardrobe.essential.gg/templates/209/js/skin.min.js
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\templates\209\js\skin.min-77.js
+Content Type: application/javascript
+
+tml
+
+Uri: https://wardrobe.essential.gg/package/4954352?currency=NOK
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\package\4954352-6.html
+Content Type: text/html
+
+Uri: https://wardrobe.essential.gg/package/4954352?currency=NZD
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\package\4954352-7.html
+Content Type: text/html
+
+Uri: https://wardrobe.essential.gg/package/4954352?currency=PLN
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\package\4954352-8.html
+Content Type: text/html
+
+Uri: https://wardrobe.essential.gg/package/4954352?currency=SEK
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\package\4954352-10.html
+Content Type: text/html
+
+Uri: https://wardrobe.essential.gg/package/4954352?currency=USD
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\package\4954352-11.html
+Content Type: text/html
+
+Uri: https://wardrobe.essential.gg/template-assets/store.css?updated=fb5825170d5b4830a84b8f808215b14dd500c7875478eb02df0da1027db8d186
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\template-assets\store-76.css
+Content Type: text/css
+
+Uri: https://wardrobe.essential.gg/templates/209/js/site.js
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\templates\209\js\site-76.js
+Content Type: application/javascript
+
+Uri: https://wardrobe.essential.gg/templates/209/js/skin.min.js
+File Name: C:\Downloaded Web Sites\wardrobe.essential.gg\templates\209\js\skin.min-76.js
+Content Type: application/javascript
+
+: C:\Downloaded Web Sites\wardrobe.essential.gg\ajax\libs\popper.js\1.14.3\umd\popper.min-13.js
 Content Type: application/javascript
 
 Uri: https://dunb17ur4ymx4.cloudfront.net/packages/images/205815fcf5da4d48218b97fe35e3211ac3536fc1.png
