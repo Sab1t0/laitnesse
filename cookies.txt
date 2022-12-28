@@ -1,8 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.tebex.io	TRUE	/	FALSE	1999999999	__cf_bm	v4Ym3v7RHw86DNWSHO.w9liL2c3MBHoFtKlzjakYyxU-1671854173-0-AXdGvAO4G0Sp3N/MozoK5QXlK9Wn30p+1ek9Aa9W0BDiO1gAlKxwlHEPQPoihQF48zTaZ6l6/Ct/+nyy9OZjotY=
-cdn.tebex.io	TRUE	/	FALSE	1999999999	SameSite	None
-wardrobe.essential.gg	TRUE	/	FALSE	1999999999	buycraft_currency	USD
-.wardrobe.essential.gg	TRUE	/	FALSE	1999999999	__cf_bm	IwgbTbqYcxOr5eb6dQY_kcF.NPMUs1oDhMKI6YAVplU-1671854411-0-AXxBiF4v4hCKFzzgwIhIMVNxLdbJwe8C1JETBSESEhoebrWmyITJP3sV07AyNJiaOld2WAxsdBEhb+srp8Ig/tA=
-wardrobe.essential.gg	TRUE	/	FALSE	1999999999	SameSite	None
-
